@@ -2,7 +2,7 @@
     <img src="renadrians-banner.png" alt="My GitHub Banner" />
 </a>
 
-<h1 align="center">Hi 👋, I'm Renadrians</h1>
+<h1 align="center">Hola 👋, I'm Muhammad Rendi Adriansyah</h1>
 <h3 align="center">
     Fullstack Web Developer | Data Scientist | 
     Tech Enthusiast | 
