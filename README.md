@@ -1,5 +1,5 @@
-<a href="path/to/your/image.png" target="_blank">
-    <img src="path/to/your/image.png" alt="My GitHub Banner" />
+<a href="renadrians-banner.png" target="_blank">
+    <img src="renadrians-banner.png" alt="My GitHub Banner" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Renadrians</h1>
