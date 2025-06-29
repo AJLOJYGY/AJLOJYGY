@@ -1,6 +1,4 @@
-<a href="renadrians-banner.png" target="_blank">
-    <img src="renadrians-banner.png" alt="My GitHub Banner" />
-</a>
+
 
 <h1 align="center">Hola 👋, I'm Muhammad Rendi Adriansyah</h1>
 <h3 align="center">
