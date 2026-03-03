@@ -9,11 +9,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/12qyupc24fkd1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renadrians&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
     <a href="https://instagram.com/renadrians" target="blank">
         <img src="https://img.shields.io/badge/Instagram-@renadrians-ff69b4?style=for-the-badge&logo=instagram" alt="renadrians" />
     </a> 
-</p>
+</p> -->
 
 - 🌱 I’m currently exploring **Machine Learning and Data Science**
 
